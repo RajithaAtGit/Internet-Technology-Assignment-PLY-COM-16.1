@@ -1,0 +1,13 @@
+/***********RESPONSIVE WEB DESIGN***************/
+@media screen and (max-width:601px){.navbar li{float:none}}
+@media screen and (max-width:601px){.navbar,.header-text{text-align:center}}
+@media screen and (max-width:601px){.navbar .dropdown-hover .dropdown-content{position:relative}}
+@media screen and (max-width:900px){.header-text{text-align: center; display:block;position:static;top: 0;right:0; font-size: 0.99em}}
+
+@media screen and (max-width:900px){.header-img{ display: none;}}
+@media screen and (max-width:900px){.logo-overwrite{ display: block;}}
+
+@media screen and (max-width:1600px){.card-div { width: 30% ;margin:1.5%}}
+@media screen and (max-width:900px){.card-div {float:none; width: 97% ;margin: auto; margin-bottom: 20px}}
+
+@media screen and (max-width:1350px){.footer-ul{margin: 1% 2%;}}

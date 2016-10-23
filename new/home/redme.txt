@@ -1,0 +1,1 @@
+footer not responsive make it responsive for mobile divise
